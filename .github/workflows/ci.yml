@@ -1,4 +1,4 @@
-name: Quality, Docs, and Testing
+name: All
 
 on:
   pull_request:
